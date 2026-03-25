@@ -1,4 +1,4 @@
-# 💫 About Me: Hi, I'm Vaishnavi Kolekar👋<br><br>🎓 I'm an AI and Data Science student with hands-on experience building finance and AI-driven industrial projects.<br>💡 Passionate about building real-world AI and mastering data<br> 📊 Focused on Finance + AI Industrial Projects <br>🤝 Open to collaboration in AI, Data Science & FinTech projects 
+ Hi, I'm Vaishnavi Kolekar👋<br><br>🎓 I'm an AI and Data Science student with hands-on experience building finance and AI-driven industrial projects.<br>💡 Passionate about building real-world AI and mastering data<br> 📊 Focused on Finance + AI Industrial Projects <br>🤝 Open to collaboration in AI, Data Science & FinTech projects 
 
 
 ## 🌐 Socials:
